@@ -13,6 +13,7 @@ A simple weather search by entering the city you wish to view. The application d
 * [Zachary Bryan](https://github.com/zacharybryan)
 * [Nicholas Konzen](https://github.com/NTKonzen)
 * [Talia Vazquez](https://github.com/taliavazquez)
+* [Kira Lowrey](https://github.com/KILowrey)
 * Bootstrap
 * Font Awesome
 * jQuery
