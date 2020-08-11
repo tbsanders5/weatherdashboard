@@ -13,19 +13,19 @@ body {
     width: 75%;
   }
   
-  #userChoices {
-    width: 22rem;
+  #city-input {
+    width: 14rem;
   }
   
-  #dateEl,
-  #locationName,
+  #city-date-icon,
+  #city-name,
   #current-icon {
       display: flex;
       flex-direction: row;
       justify-content: center/space-around/space-between;
   }
   
-  h5 {
+  h6 {
     font-weight: bold;
   }
   
